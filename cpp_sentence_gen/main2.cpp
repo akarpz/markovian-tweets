@@ -91,7 +91,7 @@ vector<string> convertToWordList(string input) {
 
 
 int main() {
-    vector<string> files = {"random.txt", "DonaldTrump.txt", "LilWayne.txt", "PrideAndPrej.txt", "StephenColbert.txt", "Iraq.txt"};
+    vector<string> files = {"Const.txt", "HillaryClinton.txt", "DonaldTrump.txt", "LilWayne.txt", "PrideAndPrej.txt", "StephenColbert.txt", "Iraq.txt"};
 
     string fileName;
     bool validFile = 0;
